@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem-vindo!
 
 - 📖 Curso: Ciência da computação - 1º semestre
 - 🖥️ Estudando js e node.js
